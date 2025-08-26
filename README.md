@@ -1,4 +1,4 @@
-# Fixly-DFD-SSD
 
-This repository includes essential software design diagrams—Data Flow Diagrams (DFDs) and System Sequence Diagrams (SSDs)—developed for Project "Fixly". The DFDs represent how data moves through the system, showing processes, data stores, and external entities at various levels of detail. The SSDs illustrate the dynamic interaction between users and the system by capturing the sequence of messages exchanged during key use cases. Together, these diagrams provide a clear understanding
-of system behavior.
+# Fixly – Software Design Diagrams
+
+This repository contains the software design diagrams developed for the project **Fixly – A Customer Service Website**. It includes **Data Flow Diagrams (DFDs)** showing how data moves through the system, **System Sequence Diagrams (SSDs)** illustrating user interactions and message flows during key use cases, and a **Class Diagram** representing the structural design of entities. Together, these diagrams provide a clear understanding of the system’s functionality and behavior.
